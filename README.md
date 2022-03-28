@@ -1,10 +1,10 @@
 # cmpe273-stackoveflow-groupproject
 
-##​​Project:
+##​​ Project:    
 
-Navbar - Unmesh
-    Logo
-    Search bar - 6 apis
+Navbar - Unmesh  
+    Logo  
+    Search bar - 6 apis  
     User profile
     My messages redirection
     Logout
