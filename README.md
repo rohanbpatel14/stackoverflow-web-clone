@@ -1,4 +1,4 @@
-# cmpe273-stackoveflow-groupproject
+# cmpe273-stackoveflow-team-project
 
 ## Project:    
 
