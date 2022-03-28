@@ -1,6 +1,6 @@
 # cmpe273-stackoveflow-groupproject
 
-##​​ Project:    
+## Project:    
 
 1. Navbar - Unmesh  
 - Logo  
@@ -19,23 +19,23 @@
     - Number of views  
     - Name and profile picture who asked the question  
     - Relative time of when the question was asked  
-Tags (Sidebar menu) - Aniruddha  
-Users (side bar) -    
-Question overview page - Sakshi  
-User profile - Sudheendra  
-    Sign in and Sign up  
-    Basic details  
-    Profile tab  
-    Activity tab  
-        Answers/questions tab  
-        Tags  
-        Badges  
-        Bookmarks  
-        User reputation  
-Question posting page  - Sakshi  
-My messages -    
-Admin - Aniruddha  
-    Add tags  
-    Review page  
-    Analytics dashboard  
+3. Tags (Sidebar menu) - Aniruddha  
+4. Users (side bar) -    
+5. Question overview page - Sakshi  
+6. User profile - Sudheendra  
+- Sign in and Sign up  
+- Basic details  
+- Profile tab  
+- Activity tab  
+    - Answers/questions tab  
+    - Tags  
+    - Badges  
+    - Bookmarks  
+    - User reputation  
+7. Question posting page  - Sakshi  
+8. My messages -    
+9. Admin - Aniruddha  
+- Add tags  
+- Review page  
+- Analytics dashboard  
 
